@@ -1,1 +1,2 @@
-# welcome to my project
+# The sight
+# Place that you can recognize the sight around you
